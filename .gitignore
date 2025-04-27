@@ -2,3 +2,5 @@ venv/
 .terraform
 .terraform.lock.hcl
 aws/
+terraform.tfstate
+terraform.tfstate.backup
